@@ -1,0 +1,870 @@
+{
+ "version": "16.21.1",
+ "champions": {
+  "Aatrox": {
+   "id": "266",
+   "epithet": "暗裔剑魔",
+   "name": "亚托克斯"
+  },
+  "Ahri": {
+   "id": "103",
+   "epithet": "九尾妖狐",
+   "name": "阿狸"
+  },
+  "Akali": {
+   "id": "84",
+   "epithet": "离群之刺",
+   "name": "阿卡丽"
+  },
+  "Akshan": {
+   "id": "166",
+   "epithet": "影哨",
+   "name": "阿克尚"
+  },
+  "Alistar": {
+   "id": "12",
+   "epithet": "牛头酋长",
+   "name": "阿利斯塔"
+  },
+  "Ambessa": {
+   "id": "799",
+   "epithet": "铁血狼母",
+   "name": "安蓓萨"
+  },
+  "Amumu": {
+   "id": "32",
+   "epithet": "殇之木乃伊",
+   "name": "阿木木"
+  },
+  "Anivia": {
+   "id": "34",
+   "epithet": "冰晶凤凰",
+   "name": "艾尼维亚"
+  },
+  "Annie": {
+   "id": "1",
+   "epithet": "黑暗之女",
+   "name": "安妮"
+  },
+  "Aphelios": {
+   "id": "523",
+   "epithet": "残月之肃",
+   "name": "厄斐琉斯"
+  },
+  "Ashe": {
+   "id": "22",
+   "epithet": "寒冰射手",
+   "name": "艾希"
+  },
+  "AurelionSol": {
+   "id": "136",
+   "epithet": "铸星龙王",
+   "name": "奥瑞利安·索尔"
+  },
+  "Aurora": {
+   "id": "893",
+   "epithet": "双界灵兔",
+   "name": "阿萝拉"
+  },
+  "Azir": {
+   "id": "268",
+   "epithet": "沙漠皇帝",
+   "name": "阿兹尔"
+  },
+  "Bard": {
+   "id": "432",
+   "epithet": "星界游神",
+   "name": "巴德"
+  },
+  "Belveth": {
+   "id": "200",
+   "epithet": "虚空女皇",
+   "name": "卑尔维斯"
+  },
+  "Blitzcrank": {
+   "id": "53",
+   "epithet": "蒸汽机器人",
+   "name": "布里茨"
+  },
+  "Brand": {
+   "id": "63",
+   "epithet": "复仇焰魂",
+   "name": "布兰德"
+  },
+  "Braum": {
+   "id": "201",
+   "epithet": "弗雷尔卓德之心",
+   "name": "布隆"
+  },
+  "Briar": {
+   "id": "233",
+   "epithet": "狂厄蔷薇",
+   "name": "贝蕾亚"
+  },
+  "Caitlyn": {
+   "id": "51",
+   "epithet": "皮城女警",
+   "name": "凯特琳"
+  },
+  "Camille": {
+   "id": "164",
+   "epithet": "青钢影",
+   "name": "卡蜜尔"
+  },
+  "Cassiopeia": {
+   "id": "69",
+   "epithet": "魔蛇之拥",
+   "name": "卡西奥佩娅"
+  },
+  "Chogath": {
+   "id": "31",
+   "epithet": "虚空恐惧",
+   "name": "科加斯"
+  },
+  "Corki": {
+   "id": "42",
+   "epithet": "英勇投弹手",
+   "name": "库奇"
+  },
+  "Darius": {
+   "id": "122",
+   "epithet": "诺克萨斯之手",
+   "name": "德莱厄斯"
+  },
+  "Diana": {
+   "id": "131",
+   "epithet": "皎月女神",
+   "name": "黛安娜"
+  },
+  "Draven": {
+   "id": "119",
+   "epithet": "荣耀行刑官",
+   "name": "德莱文"
+  },
+  "DrMundo": {
+   "id": "36",
+   "epithet": "祖安狂人",
+   "name": "蒙多医生"
+  },
+  "Ekko": {
+   "id": "245",
+   "epithet": "时间刺客",
+   "name": "艾克"
+  },
+  "Elise": {
+   "id": "60",
+   "epithet": "蜘蛛女皇",
+   "name": "伊莉丝"
+  },
+  "Evelynn": {
+   "id": "28",
+   "epithet": "痛苦之拥",
+   "name": "伊芙琳"
+  },
+  "Ezreal": {
+   "id": "81",
+   "epithet": "探险家",
+   "name": "伊泽瑞尔"
+  },
+  "Fiddlesticks": {
+   "id": "9",
+   "epithet": "远古恐惧",
+   "name": "费德提克"
+  },
+  "Fiora": {
+   "id": "114",
+   "epithet": "无双剑姬",
+   "name": "菲奥娜"
+  },
+  "Fizz": {
+   "id": "105",
+   "epithet": "潮汐海灵",
+   "name": "菲兹"
+  },
+  "Galio": {
+   "id": "3",
+   "epithet": "正义巨像",
+   "name": "加里奥"
+  },
+  "Gangplank": {
+   "id": "41",
+   "epithet": "海洋之灾",
+   "name": "普朗克"
+  },
+  "Garen": {
+   "id": "86",
+   "epithet": "德玛西亚之力",
+   "name": "盖伦"
+  },
+  "Gnar": {
+   "id": "150",
+   "epithet": "迷失之牙",
+   "name": "纳尔"
+  },
+  "Gragas": {
+   "id": "79",
+   "epithet": "酒桶",
+   "name": "古拉加斯"
+  },
+  "Graves": {
+   "id": "104",
+   "epithet": "法外狂徒",
+   "name": "格雷福斯"
+  },
+  "Gwen": {
+   "id": "887",
+   "epithet": "灵罗娃娃",
+   "name": "格温"
+  },
+  "Hecarim": {
+   "id": "120",
+   "epithet": "战争之影",
+   "name": "赫卡里姆"
+  },
+  "Heimerdinger": {
+   "id": "74",
+   "epithet": "大发明家",
+   "name": "黑默丁格"
+  },
+  "Hwei": {
+   "id": "910",
+   "epithet": "异画师",
+   "name": "彗"
+  },
+  "Illaoi": {
+   "id": "420",
+   "epithet": "海兽祭司",
+   "name": "俄洛伊"
+  },
+  "Irelia": {
+   "id": "39",
+   "epithet": "刀锋舞者",
+   "name": "艾瑞莉娅"
+  },
+  "Ivern": {
+   "id": "427",
+   "epithet": "翠神",
+   "name": "艾翁"
+  },
+  "Janna": {
+   "id": "40",
+   "epithet": "风暴之怒",
+   "name": "迦娜"
+  },
+  "JarvanIV": {
+   "id": "59",
+   "epithet": "德玛西亚皇子",
+   "name": "嘉文四世"
+  },
+  "Jax": {
+   "id": "24",
+   "epithet": "武器大师",
+   "name": "贾克斯"
+  },
+  "Jayce": {
+   "id": "126",
+   "epithet": "未来守护者",
+   "name": "杰斯"
+  },
+  "Jhin": {
+   "id": "202",
+   "epithet": "戏命师",
+   "name": "烬"
+  },
+  "Jinx": {
+   "id": "222",
+   "epithet": "暴走萝莉",
+   "name": "金克丝"
+  },
+  "Kaisa": {
+   "id": "145",
+   "epithet": "虚空之女",
+   "name": "卡莎"
+  },
+  "Kalista": {
+   "id": "429",
+   "epithet": "复仇之矛",
+   "name": "卡莉丝塔"
+  },
+  "Karma": {
+   "id": "43",
+   "epithet": "天启者",
+   "name": "卡尔玛"
+  },
+  "Karthus": {
+   "id": "30",
+   "epithet": "死亡颂唱者",
+   "name": "卡尔萨斯"
+  },
+  "Kassadin": {
+   "id": "38",
+   "epithet": "虚空行者",
+   "name": "卡萨丁"
+  },
+  "Katarina": {
+   "id": "55",
+   "epithet": "不祥之刃",
+   "name": "卡特琳娜"
+  },
+  "Kayle": {
+   "id": "10",
+   "epithet": "正义天使",
+   "name": "凯尔"
+  },
+  "Kayn": {
+   "id": "141",
+   "epithet": "影流之镰",
+   "name": "凯隐"
+  },
+  "Kennen": {
+   "id": "85",
+   "epithet": "狂暴之心",
+   "name": "凯南"
+  },
+  "Khazix": {
+   "id": "121",
+   "epithet": "虚空掠夺者",
+   "name": "卡兹克"
+  },
+  "Kindred": {
+   "id": "203",
+   "epithet": "永猎双子",
+   "name": "千珏"
+  },
+  "Kled": {
+   "id": "240",
+   "epithet": "暴怒骑士",
+   "name": "克烈"
+  },
+  "KogMaw": {
+   "id": "96",
+   "epithet": "深渊巨口",
+   "name": "克格莫"
+  },
+  "KSante": {
+   "id": "897",
+   "epithet": "纳祖芒荣耀",
+   "name": "奎桑提"
+  },
+  "Leblanc": {
+   "id": "7",
+   "epithet": "诡术妖姬",
+   "name": "乐芙兰"
+  },
+  "LeeSin": {
+   "id": "64",
+   "epithet": "盲僧",
+   "name": "李青"
+  },
+  "Leona": {
+   "id": "89",
+   "epithet": "曙光女神",
+   "name": "蕾欧娜"
+  },
+  "Lillia": {
+   "id": "876",
+   "epithet": "含羞蓓蕾",
+   "name": "莉莉娅"
+  },
+  "Lissandra": {
+   "id": "127",
+   "epithet": "冰霜女巫",
+   "name": "丽桑卓"
+  },
+  "Locke": {
+   "id": "805",
+   "epithet": "灰烬驱魔人",
+   "name": "洛克"
+  },
+  "Lucian": {
+   "id": "236",
+   "epithet": "圣枪游侠",
+   "name": "卢锡安"
+  },
+  "Lulu": {
+   "id": "117",
+   "epithet": "仙灵女巫",
+   "name": "璐璐"
+  },
+  "Lux": {
+   "id": "99",
+   "epithet": "光辉女郎",
+   "name": "拉克丝"
+  },
+  "Malphite": {
+   "id": "54",
+   "epithet": "熔岩巨兽",
+   "name": "墨菲特"
+  },
+  "Malzahar": {
+   "id": "90",
+   "epithet": "虚空先知",
+   "name": "玛尔扎哈"
+  },
+  "Maokai": {
+   "id": "57",
+   "epithet": "扭曲树精",
+   "name": "茂凯"
+  },
+  "MasterYi": {
+   "id": "11",
+   "epithet": "无极剑圣",
+   "name": "易"
+  },
+  "Mel": {
+   "id": "800",
+   "epithet": "流光镜影",
+   "name": "梅尔"
+  },
+  "Milio": {
+   "id": "902",
+   "epithet": "明烛",
+   "name": "米利欧"
+  },
+  "MissFortune": {
+   "id": "21",
+   "epithet": "赏金猎人",
+   "name": "厄运小姐"
+  },
+  "MonkeyKing": {
+   "id": "62",
+   "epithet": "齐天大圣",
+   "name": "孙悟空"
+  },
+  "Mordekaiser": {
+   "id": "82",
+   "epithet": "铁铠冥魂",
+   "name": "莫德凯撒"
+  },
+  "Morgana": {
+   "id": "25",
+   "epithet": "堕落天使",
+   "name": "莫甘娜"
+  },
+  "Naafiri": {
+   "id": "950",
+   "epithet": "百裂冥犬",
+   "name": "纳亚菲利"
+  },
+  "Nami": {
+   "id": "267",
+   "epithet": "唤潮鲛姬",
+   "name": "娜美"
+  },
+  "Nasus": {
+   "id": "75",
+   "epithet": "沙漠死神",
+   "name": "内瑟斯"
+  },
+  "Nautilus": {
+   "id": "111",
+   "epithet": "深海泰坦",
+   "name": "诺提勒斯"
+  },
+  "Neeko": {
+   "id": "518",
+   "epithet": "万花通灵",
+   "name": "妮蔻"
+  },
+  "Nidalee": {
+   "id": "76",
+   "epithet": "狂野女猎手",
+   "name": "奈德丽"
+  },
+  "Nilah": {
+   "id": "895",
+   "epithet": "不羁之悦",
+   "name": "尼菈"
+  },
+  "Nocturne": {
+   "id": "56",
+   "epithet": "永恒梦魇",
+   "name": "魔腾"
+  },
+  "Nunu": {
+   "id": "20",
+   "epithet": "雪原双子",
+   "name": "努努和威朗普"
+  },
+  "Olaf": {
+   "id": "2",
+   "epithet": "狂战士",
+   "name": "奥拉夫"
+  },
+  "Orianna": {
+   "id": "61",
+   "epithet": "发条魔灵",
+   "name": "奥莉安娜"
+  },
+  "Ornn": {
+   "id": "516",
+   "epithet": "山隐之焰",
+   "name": "奥恩"
+  },
+  "Pantheon": {
+   "id": "80",
+   "epithet": "不屈之枪",
+   "name": "潘森"
+  },
+  "Poppy": {
+   "id": "78",
+   "epithet": "圣锤之毅",
+   "name": "波比"
+  },
+  "Pyke": {
+   "id": "555",
+   "epithet": "血港鬼影",
+   "name": "派克"
+  },
+  "Qiyana": {
+   "id": "246",
+   "epithet": "元素女皇",
+   "name": "奇亚娜"
+  },
+  "Quinn": {
+   "id": "133",
+   "epithet": "德玛西亚之翼",
+   "name": "奎因"
+  },
+  "Rakan": {
+   "id": "497",
+   "epithet": "幻翎",
+   "name": "洛"
+  },
+  "Rammus": {
+   "id": "33",
+   "epithet": "披甲龙龟",
+   "name": "拉莫斯"
+  },
+  "RekSai": {
+   "id": "421",
+   "epithet": "虚空遁地兽",
+   "name": "雷克塞"
+  },
+  "Rell": {
+   "id": "526",
+   "epithet": "镕铁少女",
+   "name": "芮尔"
+  },
+  "Renata": {
+   "id": "888",
+   "epithet": "炼金男爵",
+   "name": "烈娜塔 · 戈拉斯克"
+  },
+  "Renekton": {
+   "id": "58",
+   "epithet": "荒漠屠夫",
+   "name": "雷克顿"
+  },
+  "Rengar": {
+   "id": "107",
+   "epithet": "傲之追猎者",
+   "name": "雷恩加尔"
+  },
+  "Riven": {
+   "id": "92",
+   "epithet": "放逐之刃",
+   "name": "锐雯"
+  },
+  "Rumble": {
+   "id": "68",
+   "epithet": "机械公敌",
+   "name": "兰博"
+  },
+  "Ryze": {
+   "id": "13",
+   "epithet": "符文法师",
+   "name": "瑞兹"
+  },
+  "Samira": {
+   "id": "360",
+   "epithet": "沙漠玫瑰",
+   "name": "莎弥拉"
+  },
+  "Sejuani": {
+   "id": "113",
+   "epithet": "北地之怒",
+   "name": "瑟庄妮"
+  },
+  "Senna": {
+   "id": "235",
+   "epithet": "涤魂圣枪",
+   "name": "赛娜"
+  },
+  "Seraphine": {
+   "id": "147",
+   "epithet": "星籁歌姬",
+   "name": "萨勒芬妮"
+  },
+  "Sett": {
+   "id": "875",
+   "epithet": "腕豪",
+   "name": "瑟提"
+  },
+  "Shaco": {
+   "id": "35",
+   "epithet": "恶魔小丑",
+   "name": "萨科"
+  },
+  "Shen": {
+   "id": "98",
+   "epithet": "暮光之眼",
+   "name": "慎"
+  },
+  "Shyvana": {
+   "id": "102",
+   "epithet": "龙血武姬",
+   "name": "希瓦娜"
+  },
+  "Singed": {
+   "id": "27",
+   "epithet": "炼金术士",
+   "name": "辛吉德"
+  },
+  "Sion": {
+   "id": "14",
+   "epithet": "亡灵战神",
+   "name": "赛恩"
+  },
+  "Sivir": {
+   "id": "15",
+   "epithet": "战争女神",
+   "name": "希维尔"
+  },
+  "Skarner": {
+   "id": "72",
+   "epithet": "上古领主",
+   "name": "斯卡纳"
+  },
+  "Smolder": {
+   "id": "901",
+   "epithet": "炽炎雏龙",
+   "name": "斯莫德"
+  },
+  "Sona": {
+   "id": "37",
+   "epithet": "琴瑟仙女",
+   "name": "娑娜"
+  },
+  "Soraka": {
+   "id": "16",
+   "epithet": "众星之子",
+   "name": "索拉卡"
+  },
+  "Swain": {
+   "id": "50",
+   "epithet": "诺克萨斯统领",
+   "name": "斯维因"
+  },
+  "Sylas": {
+   "id": "517",
+   "epithet": "解脱者",
+   "name": "塞拉斯"
+  },
+  "Syndra": {
+   "id": "134",
+   "epithet": "暗黑元首",
+   "name": "辛德拉"
+  },
+  "TahmKench": {
+   "id": "223",
+   "epithet": "河流之王",
+   "name": "塔姆"
+  },
+  "Taliyah": {
+   "id": "163",
+   "epithet": "岩雀",
+   "name": "塔莉垭"
+  },
+  "Talon": {
+   "id": "91",
+   "epithet": "刀锋之影",
+   "name": "泰隆"
+  },
+  "Taric": {
+   "id": "44",
+   "epithet": "瓦洛兰之盾",
+   "name": "塔里克"
+  },
+  "Teemo": {
+   "id": "17",
+   "epithet": "迅捷斥候",
+   "name": "提莫"
+  },
+  "Thresh": {
+   "id": "412",
+   "epithet": "魂锁典狱长",
+   "name": "锤石"
+  },
+  "Tristana": {
+   "id": "18",
+   "epithet": "麦林炮手",
+   "name": "崔丝塔娜"
+  },
+  "Trundle": {
+   "id": "48",
+   "epithet": "巨魔之王",
+   "name": "特朗德尔"
+  },
+  "Tryndamere": {
+   "id": "23",
+   "epithet": "蛮族之王",
+   "name": "泰达米尔"
+  },
+  "TwistedFate": {
+   "id": "4",
+   "epithet": "卡牌大师",
+   "name": "崔斯特"
+  },
+  "Twitch": {
+   "id": "29",
+   "epithet": "瘟疫之源",
+   "name": "图奇"
+  },
+  "Udyr": {
+   "id": "77",
+   "epithet": "兽灵行者",
+   "name": "乌迪尔"
+  },
+  "Urgot": {
+   "id": "6",
+   "epithet": "无畏战车",
+   "name": "厄加特"
+  },
+  "Varus": {
+   "id": "110",
+   "epithet": "惩戒之箭",
+   "name": "韦鲁斯"
+  },
+  "Vayne": {
+   "id": "67",
+   "epithet": "暗夜猎手",
+   "name": "薇恩"
+  },
+  "Veigar": {
+   "id": "45",
+   "epithet": "邪恶小法师",
+   "name": "维迦"
+  },
+  "Velkoz": {
+   "id": "161",
+   "epithet": "虚空之眼",
+   "name": "维克兹"
+  },
+  "Vex": {
+   "id": "711",
+   "epithet": "愁云使者",
+   "name": "薇古丝"
+  },
+  "Vi": {
+   "id": "254",
+   "epithet": "皮城执法官",
+   "name": "蔚"
+  },
+  "Viego": {
+   "id": "234",
+   "epithet": "破败之王",
+   "name": "佛耶戈"
+  },
+  "Viktor": {
+   "id": "112",
+   "epithet": "奥术先驱",
+   "name": "维克托"
+  },
+  "Vladimir": {
+   "id": "8",
+   "epithet": "猩红收割者",
+   "name": "弗拉基米尔"
+  },
+  "Volibear": {
+   "id": "106",
+   "epithet": "不灭狂雷",
+   "name": "沃利贝尔"
+  },
+  "Warwick": {
+   "id": "19",
+   "epithet": "祖安怒兽",
+   "name": "沃里克"
+  },
+  "Xayah": {
+   "id": "498",
+   "epithet": "逆羽",
+   "name": "霞"
+  },
+  "Xerath": {
+   "id": "101",
+   "epithet": "远古巫灵",
+   "name": "泽拉斯"
+  },
+  "XinZhao": {
+   "id": "5",
+   "epithet": "德邦总管",
+   "name": "赵信"
+  },
+  "Yasuo": {
+   "id": "157",
+   "epithet": "疾风剑豪",
+   "name": "亚索"
+  },
+  "Yone": {
+   "id": "777",
+   "epithet": "封魔剑魂",
+   "name": "永恩"
+  },
+  "Yorick": {
+   "id": "83",
+   "epithet": "牧魂人",
+   "name": "约里克"
+  },
+  "Yunara": {
+   "id": "804",
+   "epithet": "不破之誓",
+   "name": "芸阿娜"
+  },
+  "Yuumi": {
+   "id": "350",
+   "epithet": "魔法猫咪",
+   "name": "悠米"
+  },
+  "Zaahen": {
+   "id": "904",
+   "epithet": "不落魔锋",
+   "name": "亚恒"
+  },
+  "Zac": {
+   "id": "154",
+   "epithet": "生化魔人",
+   "name": "扎克"
+  },
+  "Zed": {
+   "id": "238",
+   "epithet": "影流之主",
+   "name": "劫"
+  },
+  "Zeri": {
+   "id": "221",
+   "epithet": "祖安花火",
+   "name": "泽丽"
+  },
+  "Ziggs": {
+   "id": "115",
+   "epithet": "爆破鬼才",
+   "name": "吉格斯"
+  },
+  "Zilean": {
+   "id": "26",
+   "epithet": "时光守护者",
+   "name": "基兰"
+  },
+  "Zoe": {
+   "id": "142",
+   "epithet": "暮光星灵",
+   "name": "佐伊"
+  },
+  "Zyra": {
+   "id": "143",
+   "epithet": "荆棘之兴",
+   "name": "婕拉"
+  }
+ }
+}

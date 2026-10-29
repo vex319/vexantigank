@@ -1,0 +1,122 @@
+{
+  "capture": {
+    "backend": "gdi",
+    "fps": 1,
+    "region": {
+      "left": 1583,
+      "top": 863,
+      "width": 336,
+      "height": 336
+    }
+  },
+  "detect": {
+    "red_lo": [
+      0,
+      150,
+      90
+    ],
+    "red_hi": [
+      12,
+      255,
+      255
+    ],
+    "red_lo2": [
+      168,
+      150,
+      90
+    ],
+    "red_hi2": [
+      180,
+      255,
+      255
+    ],
+    "min_icon_ratio": 0.04,
+    "max_icon_ratio": 0.115,
+    "fill_min": 0.1,
+    "fill_max": 0.42,
+    "inner_red_max": 0.45,
+    "circ_min": 0.62
+  },
+  "track": {
+    "gate": 0.055,
+    "lost_timeout": 4.0,
+    "confirm_hits": 1,
+    "static_eps": 0.01,
+    "static_hold": 4.0
+  },
+  "threat": {
+    "map_units": 14800.0,
+    "move_speed": 385.0,
+    "detour": 1.3,
+    "alert_horizon": 6.0,
+    "danger_tta": 2.5,
+    "fog_radius": 0.22,
+    "fog_delay": 1.8,
+    "max_alerts_per_min": 20,
+    "report_jungle": true,
+    "identity_grace": 1.8
+  },
+  "self": {
+    "mode": "mid",
+    "point": [
+      0.5,
+      0.5
+    ]
+  },
+  "behaviour": {
+    "period": 4.0,
+    "max_items": 2,
+    "priority": [
+      "jungle",
+      "mid",
+      "support",
+      "adc",
+      "top"
+    ],
+    "line_max": 1.95,
+    "warmup": 30.0,
+    "visible_hold": 1.5,
+    "leave_hold": 3.0,
+    "enter_hold": 2.0,
+    "zone_hold": 1.0,
+    "mid_vanish": 10.0,
+    "cd": 25.0
+  },
+  "roles": {
+    "assign": {
+      "Smolder": "adc",
+      "Ekko": "jungle",
+      "Heimerdinger": "mid",
+      "Anivia": "top",
+      "Zyra": "support"
+    }
+  },
+  "voice": {
+    "enabled": true,
+    "min_interval": 1.2
+  },
+  "champions": {
+    "version": "16.21.1",
+    "template_size": 26,
+    "notify": [
+      "Ekko",
+      "Heimerdinger",
+      "Zyra"
+    ],
+    "roster": [
+      "Smolder",
+      "Ekko",
+      "Heimerdinger",
+      "Anivia",
+      "Zyra"
+    ]
+  },
+  "live": {
+    "enabled": true,
+    "interval": 4.0
+  },
+  "debug": {
+    "window": false,
+    "print": true
+  }
+}

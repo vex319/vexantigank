@@ -1,0 +1,9 @@
+numpy>=1.26
+opencv-python>=4.9     # 必须带 GUI 的版本，headless 没有 imshow，校准/预览都打不开
+mss>=9.0
+Pillow>=10.0           # 中文提示文字（cv2.putText 只支持 ASCII）
+
+# 可选
+# dxcam>=0.0.5        # capture.backend 设为 dxgi 时需要（Python 3.13 建议用 bettercam）
+# pyttsx3>=2.90       # 仅用于把报警语音合成为 wav，运行时不需要
+# comtypes>=1.2
